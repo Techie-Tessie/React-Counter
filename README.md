@@ -1,2 +1,2 @@
 # React-Counter
-Created with CodeSandbox
+Code for the React.js tutorial. Made with vanilla React, HTML and CSS. 
